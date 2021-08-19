@@ -3,4 +3,4 @@ project(Blowfish C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Blowfish main.c)
+add_executable(Blowfish Blowfish.c)
